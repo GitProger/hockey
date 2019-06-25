@@ -1,0 +1,17 @@
+.redbtn {
+    background: #ff0000;                
+    color: #0000ff;
+    border-color: #0000ff;
+    outline: none; 
+}
+
+.bluebtn {
+    background: #0000ff;                
+    color: #ff0000;
+    border-color: #ff0000;
+    outline: none; 
+}
+
+.clrlbl {
+    color: #000000;
+}
